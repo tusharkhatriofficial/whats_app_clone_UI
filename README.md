@@ -1,10 +1,12 @@
-# whats_app_clone
+# whatsApp UI Clone
 
-Whats app android clone
+UI of this app is a clone of WhatsApp by WhatsApp LLC. This repository is strictly ment for educational purposes only and any kind of misuse of this UI is strictly prohibited. 
 
 # Screen Shots
 ![Apple iPhone 11 Pro Max Presentation (2)](https://user-images.githubusercontent.com/64004539/137203884-2d1ddd9a-405a-4438-9ed8-d24b1b9c7f37.png)
 
+# YouTube Video Link 
+https://www.youtube.com/watch?v=AJqmZfCSZfQ&list=PLerO8dVnuRk4abbIi4-nmKdJznoVO2XVH&index=3
 
 ## Getting Started
 
