@@ -2,6 +2,10 @@
 
 Whats app android clone
 
+# Screen Shots
+![Apple iPhone 11 Pro Max Presentation (2)](https://user-images.githubusercontent.com/64004539/137203884-2d1ddd9a-405a-4438-9ed8-d24b1b9c7f37.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
